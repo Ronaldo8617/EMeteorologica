@@ -1,7 +1,7 @@
 # 🌦️ Estação Meteorológica Inteligente com Raspberry Pi Pico W
 
 ## 📹 Demonstração
-🎬 [Assista ao vídeo da demonstração](https://youtu.be/NvOw4scISNc)
+🎬 [Assista ao vídeo da demonstração](https://youtu.be/XBUl06ZR2Bg)
 
 O vídeo apresenta:
 - Visão geral do projeto
