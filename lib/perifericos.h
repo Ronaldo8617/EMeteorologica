@@ -1,5 +1,5 @@
-#ifndef LEDS_BUTTONS_H
-#define LEDS_BUTTONS_H
+#ifndef PERIFERICOS_H
+#define PERIFERICOS_H
 
 #define BOTAO_A 5
 #define BOTAO_B 6

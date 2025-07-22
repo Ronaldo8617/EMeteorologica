@@ -8,7 +8,7 @@
 
 #include "font.h"
 #include "matrixws.h"
-#include "leds_buttons.h"
+#include "perifericos.h"
 #include "display.h"
 #include "html.h"
 #include "webpage.h"
@@ -17,8 +17,8 @@
 #define I2C_PORT i2c0
 #define I2C_SDA 0
 #define I2C_SCL 1
-#define WIFI_SSID "RONALDO"
-#define WIFI_PASS "36394578"
+#define WIFI_SSID "xxxx"
+#define WIFI_PASS "xxxx"
 #define DEBOUNCE_MS 300
 
 // ==================== VARIÁVEIS GLOBAIS ====================

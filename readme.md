@@ -57,8 +57,8 @@ Desenvolver uma estação meteorológica capaz de:
 ## ⚙️ Compilação e Gravação
 
 ```bash
-git clone https://github.com/Ronaldo8617/SmartLights
-cd SmartLights
+git clone https://github.com/Ronaldo8617/EMeteorologica.git
+cd EMeteorologica
 mkdir build
 cd build
 cmake ..
@@ -79,7 +79,7 @@ EstacaoMeteorologica/
 ├── lib/
 │   ├── font.h               # Fonte para o display
 │   ├── ssd1306.c/h          # Driver do display OLED
-│   ├── leds_buttons.h       # Controle de LEDs e botões
+│   ├── perifericos.h        # Controle dos periefericos 
 │   ├── display.h            # Funções de exibição
 │   ├── html.h               # Interface web (HTML embarcado)
 │   ├── webpage.h            # Gerenciamento da página web
