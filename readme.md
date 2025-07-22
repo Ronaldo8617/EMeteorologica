@@ -74,8 +74,8 @@ Ou conecte o RP2040 segurando o botão BOOTSEL e copie o arquivo .uf2 da pasta b
 .
 
 ## 📂 Estrutura do Projeto
-plaintext
-EstacaoMeteorologica/
+```plaintext
+EMeteorologica/
 ├── lib/
 │   ├── font.h               # Fonte para o display
 │   ├── ssd1306.c/h          # Driver do display OLED
@@ -89,7 +89,7 @@ EstacaoMeteorologica/
 ├── EMeteorologica.c         # Código principal
 ├── CMakeLists.txt           # Configuração do projeto
 └── README.md                # Este arquivo
-
+```
 ## 👨‍💻 Autor
 Nome: Ronaldo César Santos Rocha
 GitHub: @Ronaldo8617
